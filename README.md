@@ -1,6 +1,8 @@
 # Predictive Analysis & Early Detection of Brain stroke using Machine Learning Algorithm
 This project aims to predict the likelihood of a stroke based on various health and lifestyle factors. The dataset used includes features such as age, average glucose level, BMI, gender, work type, residence type, and smoking status. The project involves exploratory data analysis, data preprocessing, feature engineering, model training, and evaluation.
 
+![Model Pipeline](model.png)
+
 ## Dataset
 Find the dataset under the [data.csv](https://github.com/IFTE-13/Early-Stage-Brain-Stroke-Detection/blob/main/data.csv) file.
 ### Dataset features:
